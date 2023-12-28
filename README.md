@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jawad7ali
-- 👀 I’m in love with to work on open source languages. Expert in javascript langauge.
-- 🌱 I’m currently learning microservices architecture.
+- 👋 Hi, I’m @jawad7ali with 8 years of experience in programming.
+- 👀 I’m in love with working on open-source languages. Expert in JavaScript language.
+- 🌱 I’m an expert in setting up microservices architecture.
 - 💞️ I’m looking to collaborate on NASA projects
 - 📫 Want to reach me? https://www.linkedin.com/in/jawad7ali/
 
